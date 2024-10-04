@@ -4,7 +4,6 @@
 
 # Current Status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yingzhan11&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yingzhan11&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yingzhan11&show=prs_merged&hide=issues,contribs&show_icons=true&theme=onedark&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yingzhan11&langs_count=8&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yingzhan11&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
