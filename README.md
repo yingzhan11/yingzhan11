@@ -1,9 +1,12 @@
-# I am coding...(๑•̀ㅂ•́)و✧
+<h3 align="center"><strong>I am coding...(๑•̀ㅂ•́)و✧</strong></h3>
 
-![bed23525d863428f968c60a1f4a40ba9](https://github.com/user-attachments/assets/3fe4902f-62c8-456c-8cae-58c33ff2acb1)
+<p align="center"><img src="https://github.com/user-attachments/assets/3fe4902f-62c8-456c-8cae-58c33ff2acb1" alt="I am coding..." /></p>
 
-# Current Status
+<!-- ![bed23525d863428f968c60a1f4a40ba9](https://github.com/user-attachments/assets/3fe4902f-62c8-456c-8cae-58c33ff2acb1) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yingzhan11&show=prs_merged&hide=issues,contribs&show_icons=true&theme=onedark&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yingzhan11&langs_count=8&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">- Current Status -</h3>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yingzhan11&include_all_commits=true&show_icons=true&hide_border=true&line_height=20&theme=moltack" alt="Ying's github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yingzhan11&langs_count=8&layout=compact&hide_border=true&theme=rose" alt="Most used languages"/>
+</div>
 
